@@ -45,8 +45,7 @@ Then lets start with this repository.
 
 ✅ If a maintainer reports behaviour that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
-✅ To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
-This year, the first 55,000 participants can earn a T-shirt.
+✅ Top performers will get free goodies for their approved pull requests (PRs) on the given repos between January 1-31 in any time zone.
 
 #### ⚠️What not to do :exclamation: :exclamation: :triumph: :triumph:
 
@@ -83,7 +82,7 @@ This year, the first 55,000 participants can earn a T-shirt.
 
 
 ``$ cd <cloned-folder>`` 
-``$ git remote add upstream https://github.com/Priyadarshan2000/Hacktoberfest_2k22.git ``
+``$ git remote add upstream https://github.com/scEce-Tech/ANDROID-PROJECT.git``
 ******
 
 #### 4️⃣ Now synchronize your forked repo:
@@ -145,11 +144,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 
 ##### :mailbox_with_no_mail: :mailbox_with_no_mail: You can connect for any query (or can also ask by raising issue):grey_exclamation: :grey_exclamation: :grey_exclamation:
 
-<a href= "https://www.linkedin.com/in/priyadarshan-ghosh-0a6274190/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-<a href= "http://priyadarshanghosh.com/"><img src="https://img.icons8.com/bubbles/48/000000/domain.png"/></a>
-<a href="priyadarshanghosh26@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-<a href='https://github.com/Priyadarshan2000/'><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a>
-![](https://visitor-badge.glitch.me/badge?page_id=Priyadarshan2000.Awesome-Python-Scripts)
+
+
    
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Priyadarshan2000/Priyadarshan2000/blob/master/Ending.svg"/> 
