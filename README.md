@@ -14,6 +14,10 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 # Registration Link for Synapse 1.0
 https://forms.gle/zQyxgsGpnAUNrV7o9
 
+# Rules and Regulations of contribution in Content Repository
+- You can use Java / React Native / Kotlin / Flutter to develop an android or IOS app.
+- 
+
 # Rewards :
 
 - You get some awesome goodies for **FREE!**.
