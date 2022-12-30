@@ -81,7 +81,7 @@ Then lets start with this repository.
 
 
 ``$ cd <cloned-folder>`` 
-``$ git remote add upstream https://github.com/scEce-Tech/ANDROID-PROJECT.git ``
+``$ git remote add upstream https://github.com/SC-ECE/ANDROID-PROJECT.git ``
 ******
 
 #### 4️⃣ Now synchronize your forked repo:
@@ -130,8 +130,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/scEce-Tech/ANDROID-PROJECT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=scEce-Tech/ANDROID-PROJECT" />
+			<a href="https://github.com/SC-ECE/ANDROID-PROJECT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SC-ECE/ANDROID-PROJECT" />
 </a>
 		</td>
 	</tr>
