@@ -9,17 +9,17 @@
 :diamonds: Synapse is a month-long challenge. It happens every year in the month of January.
 Synapse is open to everyone and it marks the celebration of **Open Source.** It's the first Open Source event of AOT that encourages newbies to participate in Open Source and create their 1st meaningful PR.
   
-  <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+<h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
 
-🏆 🏆 **Rewards :** 🏆🏆
+# Registration Link for Synapse 1.0
+https://forms.gle/DAQELB4Gx7raeV6u6
 
-You get some awesome goodies for **FREE!**.
+# Rewards :
 
-🤔🤔**How can you Join** :grey_question::grey_question:
+- You get some awesome goodies for **FREE!**.
+- participation certificates for all participants.
 
-Navigate to the link below 👇 👇 and follow the instructions ✔️ ✔️
 
-<https://hacktoberfest.digitalocean.com/register>
 
 ## Excited :interrobang: :star_struck: :star_struck: :star_struck:  
 
