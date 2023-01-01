@@ -14,10 +14,11 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 # Registration Link for Synapse 1.0
 https://synapse1-0.vercel.app/
 
-# Rules and Regulations of contribution in Content Repository
+# Rules and Regulations of contribution in ANDROID-PROJECT Repository
 - You can use Java / React Native / Kotlin / Flutter to develop an android or IOS app.
 - Folder Name = Project Name.
 - For android developers must be added gradle folder.
+- Add Readme file. Demo of Readme file is given in the readme.md of the repo.
 
 # Rewards :
 
