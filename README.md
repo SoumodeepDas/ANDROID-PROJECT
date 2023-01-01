@@ -16,7 +16,8 @@ https://synapse1-0.vercel.app/
 
 # Rules and Regulations of contribution in Content Repository
 - You can use Java / React Native / Kotlin / Flutter to develop an android or IOS app.
-- 
+- Folder Name = Project Name.
+- For android developers must be added gradle folder.
 
 # Rewards :
 
