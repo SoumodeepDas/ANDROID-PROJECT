@@ -18,7 +18,7 @@ https://synapse1-0.vercel.app/
 - You can use Java / React Native / Kotlin / Flutter to develop an android or IOS app.
 - Folder Name = Project Name.
 - For android developers must be added gradle folder.
-- Add Readme file. Demo of Readme file is given in the README.md of the repo.
+- Add Readme file. Demo of Readme file is given in the readme.md of the repo.
 
 # Rewards :
 
